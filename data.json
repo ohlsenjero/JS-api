@@ -1,0 +1,58 @@
+{
+
+    'Albums' : [
+    
+    [
+        'vid'
+    ], [
+        ['12df','artist1','pic2.jpg', 'https://www.youtube.com/embed/dPw8oUmxA-Y','rock'],
+        ['1','artist1','pic2.jpg', 'https://www.youtube.com/embed/B6-HrnEGa0E','vaporwave'], /// make so you can have ones with spacesry irene
+        ['12','artist1','pic3.jpg','https://www.youtube.com/embed/Su5AnFlEt9g','jazz'],
+        ['Soko','artist1','pic3.jpg','https://www.youtube.com/embed/GGSVNBIs5Wc','ragamufin'], 
+        ['12df','artist1','pic2.jpg', 'https://www.youtube.com/embed/OpxnPFWkrp0','rock'],
+        ['1','artist1', 'pic2.jpg', 'https://www.youtube.com/embed/spaEV6jCosQ','rock'],
+        ['123','artist2', 'pic2.jpg','https://www.youtube.com/embed/7ba0mo7ijOc','regueton']
+    ]
+   
+    ],'Study' : [
+    [
+        'vid'
+    ], [
+        ['12df','artist1','pic2.jpg', 'https://www.youtube.com/embed/dPw8oUmxA-Y','rock'],
+        ['1','artist1','pic2.jpg', 'https://www.youtube.com/embed/B6-HrnEGa0E','rock'], 
+        ['12','artist1','pic3.jpg','https://www.youtube.com/embed/Su5AnFlEt9g','jazz'],
+        ['Soko','artist1','pic3.jpg','https://www.youtube.com/embed/GGSVNBIs5Wc','ragamufin']
+    ]
+    ],'Various' : [
+   
+    [
+        'vid'
+    ], [
+        ['12df','artist1','pic2.jpg', 'https://www.youtube.com/embed/dPw8oUmxA-Y','games'],
+        ['1','artist1','pic2.jpg', 'https://www.youtube.com/embed/B6-HrnEGa0E','skate'], 
+        ['12','artist1','pic3.jpg','https://www.youtube.com/embed/Su5AnFlEt9g','skate'],
+        ['Soko','artist1','pic3.jpg','https://www.youtube.com/embed/GGSVNBIs5Wc','games']
+    ]
+   
+    ],
+
+    'Art' : [
+    [
+        'mono'
+    ],
+        [
+            ['1','pic2.jpg', 'photo'], 
+            ['3','pic3.jpg', 'photo'],
+            ['4','pic4.jpg', 'photo'], 
+            ['6','pic2.jpg', 'photo'], 
+            ['ty','pic7.jpg', 'photo'], 
+            ['gh','pic3.jpg'],
+            ['4dd','pic4.jpg'], 
+            ['12','pic2.jpg'], 
+            ['32','pic3.jpg'],
+            ['42','pic4.jpg'], 
+            ['62','pic2.jpg'], 
+            ['4dd23','pic4.jpg']
+        ]
+    ]
+}
