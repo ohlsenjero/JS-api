@@ -6,7 +6,7 @@
         'vid'
     ], [
         ['12df','artist1','pic2.jpg', 'https://www.youtube.com/embed/dPw8oUmxA-Y','rock'],
-        ['1','artist1','pic2.jpg', 'https://www.youtube.com/embed/B6-HrnEGa0E','vaporwave'], /// make so you can have ones with spacesry irene
+        ['1','artist1','pic2.jpg', 'https://www.youtube.com/embed/B6-HrnEGa0E','vaporwave'],
         ['12','artist1','pic3.jpg','https://www.youtube.com/embed/Su5AnFlEt9g','jazz'],
         ['Soko','artist1','pic3.jpg','https://www.youtube.com/embed/GGSVNBIs5Wc','ragamufin'], 
         ['12df','artist1','pic2.jpg', 'https://www.youtube.com/embed/OpxnPFWkrp0','rock'],
