@@ -1,22 +1,24 @@
 {
 
     "Albums" : [
-
+    //[  index 0 >> data
     [
         "vid"
     ], [
         ["Toon Time Raw!","Jerry Paper","Toon-Time-Raw.png", "https://www.youtube.com/embed/dPw8oUmxA-Y","rock"],
-        ["Floral Shoppe","Macintosh Plus","Floral-Shoppe.png", "https://www.youtube.com/embed/YcsYSJwewWk","vaporwave"], 
+        ["Floral Shoppe","Macintosh Plus","Floral-Shoppe.png", "https://www.youtube.com/embed/YcsYSJwewWk","vaporwave jazz"], 
         ["Sales","Sales","Sales.png", "https://www.youtube.com/embed/OpxnPFWkrp0","rock"],
         ["Giant steps","John Coltrane", "Giant-steps.png", "https://www.youtube.com/embed/xr0Tfng9SP0","jazz"],
         ["Bonus Cups","Descendents", "Bonus-Cups.png","https://www.youtube.com/embed/7ba0mo7ijOc","rock"], 
         ["Post Civilization Muzak","Wolf Eyes", "Post-Civilization-Muzak.png","https://www.youtube.com/embed/B6-HrnEGa0E","noise"], 
         ["I Thought I Was An Alien","Soko","I-Thought-I-Was-An-Alien.png", "https://www.youtube.com/embed/GGSVNBIs5Wc","rock"], 
+        ["Killing Time","Massacre","Killing-Time.png", "https://www.youtube.com/embed/b1kPa1PTajU","rock noise"], 
         ["Mm.. Food","MF Doom","Mm-Food.png", "https://www.youtube.com/embed/FbpEnkDQnhk","hip-hop"]
     ]
-
+    //], [ index 1 >> TYPE]   /// asi libero el ultimo escalafon para poner multi filtros                                                           
+                                                            //////////  (name, url, thumbnail, filtro1, filtro2)
     ],"Study" : [
-
+    //[  index 0 >> data
     [
         "vid"
     ], [
@@ -25,9 +27,10 @@
         ["Strings!","Pat Martino","Strings.png","https://www.youtube.com/embed/gXQYEr1oKJg","guitar_transcribe"],
         ["Lesson Part 3","Pat Martino","Lesson-Part-3.png","https://www.youtube.com/embed/GGSVNBIs5Wc","guitar_transcribe"]
     ]
-
+    //], [ index 1 >> TYPE]   /// asi libero el ultimo escalafon para poner multi filtros                                                           
+                                                            //////////  (name, url, thumbnail, filtro1, filtro2)
     ],"Various" : [
-
+    //[  index 0 >> data
     [
         "vid"
     ], [
@@ -41,9 +44,20 @@
         ["Postmortem","Diablo","Diablo.png","https://www.youtube.com/embed/VscdPA6sUkc","coding"],
         ["AGDQ 2015","Battletoads Co_Up Speed Run","Battletoads-Co_Up.png","https://www.youtube.com/embed/pvnsZeDQ8GE","games"]
     ]
-
+    //], [ index 1 >> TYPE]   /// asi libero el ultimo escalafon para poner multi filtros                                                           
+                                                            //////////  (name, url, thumbnail, filtro1, filtro2)
     ],
+    // "Art" : [
 
+        
+        
+    //         ["multi","uno","pic1.jpg", "photo"], 
+    //         ["multi","dos","pic2.jpg", "photo"],
+    //         ["multi","nameextrano","pic1.jpg", "photo"]
+       
+        
+
+    // ],
     "Art" : [
     [
         "mono"
