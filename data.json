@@ -1,7 +1,7 @@
 {
 
     "Albums" : [
-    //[  index 0 >> data
+
     [
         "vid"
     ], [
@@ -15,10 +15,9 @@
         ["Killing Time","Massacre","Killing-Time.png", "https://www.youtube.com/embed/b1kPa1PTajU","rock noise"], 
         ["Mm.. Food","MF Doom","Mm-Food.png", "https://www.youtube.com/embed/FbpEnkDQnhk","hip-hop"]
     ]
-    //], [ index 1 >> TYPE]   /// asi libero el ultimo escalafon para poner multi filtros                                                           
-                                                            //////////  (name, url, thumbnail, filtro1, filtro2)
+
     ],"Study" : [
-    //[  index 0 >> data
+
     [
         "vid"
     ], [
@@ -27,10 +26,9 @@
         ["Strings!","Pat Martino","Strings.png","https://www.youtube.com/embed/gXQYEr1oKJg","guitar_transcribe"],
         ["Lesson Part 3","Pat Martino","Lesson-Part-3.png","https://www.youtube.com/embed/GGSVNBIs5Wc","guitar_transcribe"]
     ]
-    //], [ index 1 >> TYPE]   /// asi libero el ultimo escalafon para poner multi filtros                                                           
-                                                            //////////  (name, url, thumbnail, filtro1, filtro2)
+
     ],"Various" : [
-    //[  index 0 >> data
+
     [
         "vid"
     ], [
@@ -44,20 +42,9 @@
         ["Postmortem","Diablo","Diablo.png","https://www.youtube.com/embed/VscdPA6sUkc","coding"],
         ["AGDQ 2015","Battletoads Co_Up Speed Run","Battletoads-Co_Up.png","https://www.youtube.com/embed/pvnsZeDQ8GE","games"]
     ]
-    //], [ index 1 >> TYPE]   /// asi libero el ultimo escalafon para poner multi filtros                                                           
-                                                            //////////  (name, url, thumbnail, filtro1, filtro2)
+
     ],
-    // "Art" : [
 
-        
-        
-    //         ["multi","uno","pic1.jpg", "photo"], 
-    //         ["multi","dos","pic2.jpg", "photo"],
-    //         ["multi","nameextrano","pic1.jpg", "photo"]
-       
-        
-
-    // ],
     "Art" : [
     [
         "mono"
